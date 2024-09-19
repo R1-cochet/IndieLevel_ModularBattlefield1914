@@ -23,7 +23,7 @@ This project was developed as a technical demonstration to showcase my skills in
 1. Clone the repository:
    ```bash
    git clone https://github.com/R1-cochet/ww1_low_poly_modular_environment.git
-   cd your_repository
+   cd ww1_low_poly_modular_environment
 
 2. Open the project in Unity.
 
