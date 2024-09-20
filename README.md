@@ -2,7 +2,17 @@
 
 ## Project Overview
 
-This Unity project features a modular environment inspired by the famous Christmas Truce of 1914 during World War I. The concept revolves around capturing the moment of peace amidst the chaos of war, highlighting the humanity and camaraderie that emerged even in the darkest times. 
+This Unity project features a modular environment inspired by the famous Christmas Truce of 1914 during World War I. The concept revolves around capturing the moment of peace amidst the chaos of war, highlighting the humanity and camaraderie that emerged even in the darkest times.
+
+![Modular Environment](https://imgur.com/gPZTsEf)
+![Modular Environment](https://imgur.com/clyUilE)
+
+![Modular Environment](https://imgur.com/Ywx1dFb)
+![Modular Environment](https://imgur.com/VzObN0t)
+
+![Modular Environment](https://imgur.com/KbRTWN5)
+![Modular Environment](https://imgur.com/gORtCtl)
+
 
 ## Project Details
 
